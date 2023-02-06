@@ -1,3 +1,8 @@
+# DL-DIY potential project ideas
+
+- read the paper Real NVP and understand the approach
+- run on CIFAR10
+
 # `normflows`: A PyTorch Package for Normalizing Flows
 
 [![documentation](https://github.com/VincentStimper/normalizing-flows/actions/workflows/mkdocs.yaml/badge.svg)](https://vincentstimper.github.io/normalizing-flows/)
